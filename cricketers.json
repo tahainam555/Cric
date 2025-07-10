@@ -1,0 +1,58 @@
+{
+  "Babar_Azam": {
+    "team": "Pakistan",
+    "role": "Batsman",
+    "jersey no.": 56,
+    "batting_style": "Right-hand bat",
+    "bio": "Babar Azam is the back-bone of the Pakistan cricket team known for his elegant batting."
+  },
+  "Shaheen_Afridi": {
+    "team": "Pakistan",
+    "role": "Bowler",
+    "jersey no.": 10,
+    "bowling_style": "Left-arm fast",
+    "bio": "Shaheen is a left-arm fast bowler known for his pace and swing."
+  },
+  "Virat_Kohli": {
+    "team": "India",
+    "role": "Batsman",
+    "jersey no.": 18,
+    "batting_style": "Right-hand bat",
+    "bio": "Virat Kohli is one of the most successful batsmen in modern cricket."
+  },
+  "Haris_Rauf": {
+  "team": "Pakistan",
+  "role": "Bowler",
+  "jersey no.": 97,
+  "batting_style": "Right-hand bat",
+  "bio": "Haris Rauf is a fiery fast bowler known for his raw pace and aggressive bowling. He rose to fame through the PSL and quickly became a key asset in Pakistan's bowling attack, especially in T20s."
+},
+  "Rohit_Sharma": {
+    "team": "India",
+    "role": "Batsman",
+    "jersey no.": 45,
+    "batting_style": "Right-hand bat",
+    "bio": "Rohit Sharma is known for his explosive batting and is one of the leading run-scorers in limited-overs cricket."
+  },
+  "Steve_Smith": {
+    "team": "Australia",
+    "role": "Batsman",
+    "jersey no.": 49,
+    "batting_style": "Right-hand bat",
+    "bio": "Steve Smith is renowned for his unorthodox batting style and has been a prolific run-scorer for Australia."
+  },
+  "Joe_Root": {
+    "team": "England",
+    "role": "Batsman",
+    "jersey no.": 66,
+    "batting_style": "Right-hand bat",
+    "bio": "Joe Root is a key player for England, known for his solid technique and ability to play long innings."
+  },
+  "Saim_Ayub": {
+    "team": "Pakistan",
+    "role": "Batsman",
+    "jersey no.": 77,
+    "batting_style": "Left-hand bat",
+    "bio": "Saim Ayub is a young and talented batsman, making waves in domestic cricket with his aggressive style."
+  }
+}
