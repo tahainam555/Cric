@@ -39,3 +39,38 @@ When a player is recognized, the system returns:
   "batting_style": "Right-hand bat",
   "bio": "Babar Azam is the back-bone of the Pakistan cricket team known for his elegant batting."
 }
+```
+
+## 🔧 Tech Stack
+
+- **Python 3.10+**
+- **DeepFace** (VGG-Face backend)
+- **OpenCV**
+- **NumPy**
+- **JSON**
+
+---
+
+## ⏱️ Challenges Faced
+
+- 📸 Gathering high-quality facial images for cricketers  
+- 🧠 Selecting the most effective face recognition model  
+- ⚙️ Balancing speed vs accuracy for real-time recognition  
+- 🧹 Cleaning and structuring player info in a scalable format  
+
+---
+
+## 📈 Future Plans
+
+- ✅ **Phase 1** – Core system with 10 players (Completed)  
+- 🚧 **Phase 2** – Full-scale version with 50+ players  
+- 💻 **Phase 3** – GUI using Tkinter or Streamlit  
+- 🌐 **Phase 4** – Deploy on Web or Desktop  
+
+---
+
+## 🧠 Author
+
+**Taha**  
+Cricket fan | AI enthusiast | Developer of CricLenZ  
+[LinkedIn Profile](https://www.linkedin.com) <!-- Replace with your actual profile link -->
