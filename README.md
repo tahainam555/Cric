@@ -73,4 +73,4 @@ When a player is recognized, the system returns:
 
 **Taha**  
 Cricket fan | AI enthusiast | Developer of CricLenZ  
-[LinkedIn Profile]([https://www.linkedin.com](https://www.linkedin.com/in/muhammad-taha-6651a72a1/)) <!-- Replace with your actual profile link -->
+[LinkedIn Profile](https://www.linkedin.com/in/muhammad-taha-6651a72a1/) <!-- Replace with your actual profile link -->
